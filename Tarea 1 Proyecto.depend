@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1599080713 source:c:\users\samue\documents\trabajos\estructura de datos\tarea 1 proyecto\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1599154992 source:c:\users\samue\documents\trabajos\estructura de datos\tarea 1 proyecto\list.c
+	<string.h>
+	"list.h"
+
+1599155046 c:\users\samue\documents\trabajos\estructura de datos\tarea 1 proyecto\list.h
+	<stdlib.h>
+	<stdio.h>
+
